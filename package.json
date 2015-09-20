@@ -1,0 +1,43 @@
+{
+  "name": "generator-office365app",
+  "version": "0.2.2",
+  "description": "Sample Yeoman generator for creating Office 365 web application projects using any text editor.",
+  "license": "MIT",
+  "author": "Waldek Mastykarz ^ Mavention",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "deep-extend": "^0.4.0",
+    "lodash": "^3.10.1",
+    "uuid": "^2.0.1",
+    "yeoman-generator": "^0.20.3",
+    "yosay": "^1.0.2",
+    "xml2js": "^0.4.10"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "coveralls": "^2.11.4",
+    "gulp": "^3.9.0",
+    "gulp-if": "^1.2.5",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jscs": "^2.0.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-print": "^1.1.0",
+    "gulp-task-listing": "^1.0.1",
+    "gulp-util": "^3.0.6",
+    "istanbul": "^0.3.18",
+    "jscs": "^2.1.1",
+    "jscs-jsdoc": "^1.1.0",
+    "jshint-stylish": "^2.0.1",
+    "mocha": "*",
+    "mockery": "^1.4.0",
+    "validator": "^4.0.3",
+    "which": "^1.1.1",
+    "yargs": "^3.24.0"
+  }
+}
